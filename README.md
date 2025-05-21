@@ -1,4 +1,4 @@
-# PC Fantasy
+c# PC Fantasy
 
 **PC Fantasy** is a turn-based combat simulation game inspired by titles like *Final Fantasy* and *Pokémon*. This project uses a custom graphical interface built with `tkinter` in Python and offers a tactical challenge against various bosses using a customizable team of characters.
 
@@ -109,7 +109,7 @@ Each character and boss has the following stats:
 
 ## 🛠️ Author
 
-Created by [Your Name Here]  
+Created by Eric.  
 For questions or feedback, feel free to open an issue.
 
 ---
