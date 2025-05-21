@@ -99,28 +99,6 @@ Each character and boss has the following stats:
 
 ---
 
-## 🧪 Boss List
-
-### **Sandbag Man**
-- Giant HP pool but no offensive stats. Meant as a training dummy.
-
-### **Lucifer**
-- Moderate stats, a beginner-friendly boss.
-
-### **Galgoria**
-- High defense and strong AoE skills.
-- Uses:
-  - `Hell Flame`: Hits entire team; double damage to first-position character.
-  - `Cursed Land`: Halves Atk/Def and deals true damage over time.
-
-### **Hydra**
-- Advanced boss with high stats and draining abilities.
-- Uses:
-  - `Soul Absorption`: Drains MP from players.
-  - `Life Absorption`: Deals HP damage and heals itself.
-  - Also reuses Galgoria's `Hell Flame` and `Cursed Land`.
-
----
 
 ## 💬 Notes
 
