@@ -2,7 +2,7 @@
 
 ---
 
-## 📦 Installation & Launch Instructions
+## Installation & Launch Instructions
 
 1. **Ensure you have Python installed** (Python 3.10+ recommended).
 2. **Check that `tkinter` is available** in your Python environment:
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 Upon launching the game, you'll immediately see the start screen. Clicking the only available button leads you to the **boss selection screen**.
 
@@ -43,7 +43,7 @@ Once your team is ready:
 
 ---
 
-## 🧠 Combat Mechanics
+## Combat Mechanics
 
 Once in battle, each character has:
 - A basic **Auto-Attack (AA)** (low damage, no MP cost)
@@ -55,15 +55,15 @@ Each turn:
 - After all actions are taken, click `"Finish Turn"` to let the boss act.
 - The boss always targets the first character (top-left) first, moving down the list upon each death.
 
-### 💡 Targeting note:
+### Targeting note:
 Some skills require **manually selecting a teammate before clicking the skill button**. Be sure to click the character’s name before using such a skill.
 
-### 🌀 Cooldowns:
+### Cooldowns:
 Once a skill is used, a cooldown timer (turn-based) appears in parentheses next to the skill.
 
 ---
 
-## 📊 Stats Overview
+## Stats Overview
 
 Each character and boss has the following stats:
 
@@ -80,7 +80,7 @@ Each character and boss has the following stats:
 
 ---
 
-## 📘 Key Terminology
+## Key Terminology
 
 - **Buff**: A positive stat modifier (e.g. "Buff Atk by 30%").
 - **Debuff**: A negative stat modifier.
@@ -97,17 +97,11 @@ Each character and boss has the following stats:
 ---
 
 
-## 💬 Notes
+## Notes
 
 - This is a personal project focused on gameplay logic and UI building with `tkinter`.
 - While simple in appearance, mechanics around **buff stacking**, **amplification**, and **team composition** offer strategic depth.
 - Contributions, suggestions or bug reports are welcome.
-
----
-
-## 🛠️ Author
-
-Created by Eric.  
-For questions or feedback, feel free to open an issue.
+- For questions or feedback, feel free to open an issue.
 
 ---
